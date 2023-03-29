@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Location vol.1.unity
+- path: Assets/low_pol_Fuck.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
